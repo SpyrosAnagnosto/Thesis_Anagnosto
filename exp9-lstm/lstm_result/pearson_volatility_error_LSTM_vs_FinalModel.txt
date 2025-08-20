@@ -1,0 +1,8 @@
+Pearson Correlation (Volatility vs Error):  LSTM vs FinalModel
+AAPL: LSTM=-0.2316  FinalModel=0.0597
+TSLA: LSTM=-0.0464  FinalModel=0.1188
+XOM: LSTM=-0.1095  FinalModel=0.2404
+SPY: LSTM=-0.2232  FinalModel=0.2201
+JNJ: LSTM=-0.0393  FinalModel=0.2020
+AMD: LSTM=-0.0490  FinalModel=0.1389
+PG: LSTM=-0.1781  FinalModel=0.2863
