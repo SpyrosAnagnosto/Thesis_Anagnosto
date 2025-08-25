@@ -1,8 +1,0 @@
-Wilcoxon p-values (test):
-mae: 0.015625
-rmse: 0.015625
-mape: 0.015625
-hit_rate: 0.937500
-precision: 0.687500
-recall: 0.015625
-f1: 0.078125
