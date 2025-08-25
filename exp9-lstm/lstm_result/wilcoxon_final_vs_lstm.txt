@@ -1,8 +1,0 @@
-Wilcoxon p-values (FinalModel vs LSTM)
-mae: 0.015625
-rmse: 0.015625
-mape: 0.015625
-hit_rate: 0.218750
-precision: 0.218750
-recall: 0.218750
-f1: 0.687500
