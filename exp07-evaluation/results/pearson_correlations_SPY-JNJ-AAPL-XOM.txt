@@ -1,0 +1,9 @@
+Pearson Correlation (Volatility vs Error) – SPY-JNJ-AAPL-XOM
+
+AAPL: 0.2397
+TSLA: 0.1899
+XOM: 0.4297
+SPY: 0.4139
+JNJ: 0.3892
+AMD: 0.1640
+PG: 0.3911
