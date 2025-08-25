@@ -1,0 +1,51 @@
+[
+  {
+    "ticker": "AAPL",
+    "start_date": "2010-01-04",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  },
+  {
+    "ticker": "XOM",
+    "start_date": "2010-01-04",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  },
+  {
+    "ticker": "JNJ",
+    "start_date": "2010-01-04",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  },
+  {
+    "ticker": "PG",
+    "start_date": "2010-01-04",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  },
+  {
+    "ticker": "TSLA",
+    "start_date": "2010-06-29",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  },
+  {
+    "ticker": "AMD",
+    "start_date": "2010-01-04",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  },
+  {
+    "ticker": "SPY",
+    "start_date": "2010-01-04",
+    "end_date": "2024-12-31",
+    "source": "yahoo",
+    "interval": "1d"
+  }
+]
